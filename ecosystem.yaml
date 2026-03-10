@@ -1,0 +1,12 @@
+schema_version: '1.0'
+repo: my-block-warfare
+organ: III
+display_name: "TurfSynth AR \u2014 location-based game with environmental synthesis\
+  \ and procedural creature generation"
+delivery:
+- platform: web_app
+  status: not_started
+revenue:
+- platform: freemium
+  status: planned
+  priority: critical
